@@ -3,12 +3,18 @@ Project 0 Getting Started
 
 **University of Pennsylvania, CIS 565: GPU Programming and Architecture, Project 0**
 
-* (TODO) YOUR NAME HERE
-  * (TODO) [LinkedIn](), [personal website](), [twitter](), etc.
-* Tested on: (TODO) Windows 22, i7-2222 @ 2.22GHz 22GB, GTX 222 222MB (Moore 2222 Lab)
+* Name: Vaibhav Arcot
+  *  [LinkedIn] (https://www.linkedin.com/in/vaibhav-arcot-129829167/)
+* Tested on: Windows 10, i7-7700HQ @ 2.8GHz (3.8 Boost) 32GB, External GTX 1080Ti, 11G (My personal laptop)
 
-### (TODO: Your README)
-
-Include screenshots, analysis, etc. (Remember, this is public, so don't put
-anything here that you don't want to share with the world.)
-
+### Results
+Webgl Chrome screenshot:
+![Webgl support](/images/chrome_imgs.PNG "Chrome GPU")
+DXR triangle (runnning on an external gpu):
+![DXR](/images/triangle_raw_img.PNG "DXR FL support")
+Modified CUDA window: 
+![CUDA window](/images/cuda.PNG "cuda window name")
+Nsight timeline:
+![Nsight Timeline](/images/Analysis_timeline.PNG "Nsight Timeline")
+Nsight debugging window (Wrap Info & Auto page):
+![Nsight](/images/Nsight_debug.PNG "Nsight")
